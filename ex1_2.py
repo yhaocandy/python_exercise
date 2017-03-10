@@ -3,9 +3,9 @@ import postgresql.driver as pg_driver
 import uuid
 
 
-db = pg_driver.connect(user = 'postgres',password = '271349505',host = '127.0.0.1',
+db = pg_driver.connect(user = 'postgres',password = 'xxxxx',host = 'xxxx',
 port = 5432,
-database = 'shop'
+database = 'xxx'
 )
 
 def create_code(n, length):   #生成”n“个激活码，每个激活码含有”length“位
