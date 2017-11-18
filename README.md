@@ -179,6 +179,6 @@
 
 - ![SpringSide 版TodoList](http://i.imgur.com/NEf7zHp.jpg)
 
-**第 0025 题：** 统计文本并生成词云   
+**第 0025 题：** 统计文本并生成词云
 
 
